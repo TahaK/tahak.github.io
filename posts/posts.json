@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Taha's Blog",
+    "description": "Welcome to our new blog, Taha's Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Mustafa Taha Kocyigit",
+        "url": "https://tahak.github.io"
+      }
+    ],
+    "date": "2020-02-04",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-04T18:53:59+00:00"
+  }
+]
